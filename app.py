@@ -8,11 +8,11 @@ import cachetools
 import ast
 
 st.set_page_config(
-    page_title="Image Recognition App in Snowflake",
+    page_title="Image Recognition App",
     layout='wide'
 )
 
-st.header("Image Recognition App In Snowflake")
+st.header("Image Recognition App")
 st.caption("Try uploading an image to get started with image recognition.")
 
 @cachetools.cached(cache={})

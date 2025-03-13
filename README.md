@@ -1,4 +1,4 @@
-# Image Recognition App in Snowflake
+# Image Recognition App
 
 Esta aplicación utiliza PyTorch y Streamlit para ofrecer una interfaz de reconocimiento de imágenes basada en un modelo preentrenado MobileNetV3.
 
