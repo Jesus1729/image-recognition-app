@@ -1,0 +1,7 @@
+streamlit==1.14.0
+torch==1.13.1
+torchvision==0.14.1
+pillow==9.3.0
+pandas==1.5.2
+cachetools==5.2.0
+joblib==1.2.0
